@@ -2,6 +2,8 @@
 
 A demonstration of using Riverpod for dynamic locale switching in-app, with persistence.
 
+<img src="./readme-img.png" alt="drawing" width="300"/>
+
 # How It Works
 
 - **Fallback Locale**: Declared inside `locale_state.dart`, and set with the @Default decorator.
