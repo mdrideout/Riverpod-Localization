@@ -4,7 +4,7 @@
 arb-dir: lib/l10n
 
 # The input file template
-template-arb-file: app_en.arb
+template-arb-file: app_ja.arb
 
 # Where generated localizations are placed
 output-localization-file: app_localizations.dart

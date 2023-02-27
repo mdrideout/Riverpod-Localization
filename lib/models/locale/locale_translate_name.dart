@@ -10,6 +10,10 @@ String translateLocaleName({required Locale locale}) {
       {
         return "English";
       }
+    case ("en-UK"):
+      {
+        return "British";
+      }
     case ("es-ES"):
       {
         return "Español";
